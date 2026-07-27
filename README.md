@@ -115,23 +115,21 @@ The application will open automatically in your browser.
 
 ## 📸 Screenshots
 
-### Home Page
+## 📸 Home Page
 
-> Add screenshot here
-
----
-
-### Translation Result
-
-> Add screenshot here
+![Home](screenshots/home.png)
 
 ---
 
-### Text-to-Speech Feature
+## 🌍 Translation Result
 
-> Add screenshot here
+![Translation](screenshots/translate.png)
 
 ---
+
+## 🔊 Text to Speech
+
+![Speech](screenshots/speech.png)
 
 ## 💡 Future Enhancements
 
